@@ -1,10 +1,14 @@
 package com.telecom.demo.model;
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.Table;
+
 
 @Entity
 public class Alien {
+	
 	@Id
 	private int aid;
 	private String fname;
