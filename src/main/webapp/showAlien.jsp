@@ -6,9 +6,6 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
-body{
-	background-color:fuchsia;
-}
 table, td, th {
   border: 1px solid;
   text-align: center;
